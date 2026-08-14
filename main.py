@@ -1,0 +1,2 @@
+nombre = input("Inserte nombre")
+
